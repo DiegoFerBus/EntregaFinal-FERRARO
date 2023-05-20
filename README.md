@@ -1,6 +1,6 @@
-Veterinaria
+Blog
 
-Este es un proyecto creado con Django y Python que permite agregar diferentes animales y buscarlos por nombre.
+Este es un proyecto creado con Django y Python que permite compartir fotos de sus mascotas, amigos, familia, etc. También se puede intercambiar objetos con el fin de venderlos, regalarlos o permitarlos.
 
 Instalación:
 
@@ -10,7 +10,11 @@ Instalación:
 
 Uso:
 
-1.Agrega un animal haciendo clic en "Agregar Animal" y completando el formulario.
-2.Busca un animal por su nombre en la barra de búsqueda.
-3.Haz clic en un animal en la lista de resultados para ver su detalle.
+1.Puedes ver los post de los usuarios sin tener cuenta, ingresando a "Posteos".
+2.En "Acerca de" puedes ver más info sobre la web.
+3.La opcion de "Iniciar sesion" te permite loguearte para poder subir un nuevo post.
+4. Botón "Editar" permite editar un los datos de un post, como por ejemplo el titulo.
+5. Botón "Eliminar" permite eliminar ese post.
+6. La opcion "leer mas" nos permite ver el post completo.
+7. "Agregar un Post", no permite subir un nuevo post.
 
